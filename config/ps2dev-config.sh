@@ -1,7 +1,8 @@
 #!/bin/bash
 
 #PS2TOOLCHAIN_REPO_URL="https://github.com/ps2dev/ps2toolchain.git"
-PS2TOOLCHAIN_REPO_URL="https://github.com/Lucretia-forks/ps2toolchain-ada"
+PS2TOOLCHAIN_REPO_URL="https://github.com/Lucretia-forks/ps2toolchain.git"
+#PS2TOOLCHAIN_REPO_URL="../ps2toolchain-ada/"
 PS2TOOLCHAIN_DEFAULT_REPO_REF="add-ada"
 PS2SDK_REPO_URL="https://github.com/ps2dev/ps2sdk.git"
 PS2SDK_DEFAULT_REPO_REF="master"
